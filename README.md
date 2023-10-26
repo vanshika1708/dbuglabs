@@ -1,6 +1,6 @@
 # dbuglabs
 ## IOT task submission for dbuglabs
-
+<img src="https://github.com/vanshika1708/dbuglabs/blob/main/Circuit.jpg" height=40% width=80% align="center">
 ## Link to Lab
 https://www.tinkercad.com/things/e65x60lBQwO-bodacious-stantia-kasi/editel?tenant=circuits
 
